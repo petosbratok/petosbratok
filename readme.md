@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" alt="karroge10 Github Stats" src="https://github-readme-stats-mu-three-52.vercel.app/api?username=petosbratok10&show_icons=true&theme=dark"/>
+  <img align="left" width="47%" alt="petosbratok Github Stats" src="https://github-readme-stats-mu-three-52.vercel.app/api?username=petosbratok&show_icons=true&theme=dark"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" alt="karroge10 Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petosbratok10&layout=compact"/>
+  <img align="left" width="47%" alt="petosbratok Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petosbratok&layout=compact"/>
 </a>
 
 ### Welcome! My name's Peter
