@@ -3,7 +3,7 @@
 - ⚡ I am a Web developer with experience in JavaScript, React, HTML5, CSS3.
 - 🐍 I've been applying Python in my projects combined with many modules such as Django, BeautifulSoup, Threading, Socket.
 - ☁️ Some of my projects use various API's provided by Strava, Django, YouTube, Telegram, Twitch, VK.
-- 🎍 Currently learning Django, React and Node.js.
+- 🎍 Currently learning full-stack web-development using Django combined with JavaScript.
 - 🏛️ Besides coding, I'm highly interested in economics and logistics!
 - 📫 Reach me here: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
 
