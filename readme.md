@@ -1,9 +1,9 @@
 ### Welcome! My name's Peter
 
 - ⚡ Full stack web-developer.
-- 🐍 Applying Python such modules as Django, Threading, Socket.
-- 🎓 Can do Data Science by using Pandas, Numpy, Matplotlib, Tensorflow, Sklearn.
-- ☁️ Used various API's provided by Strava, Django, Telegram, Twitch, VK.
+- 🐍 Applying Python with such modules as Django, Threading, Socket.
+- 🎓 Can do Data Science with Pandas, Numpy, Matplotlib, Tensorflow, Sklearn.
+- ☁️ Used API's provided by Strava, Django, Telegram, Twitch, VK.
 - 🏛️ Besides coding, I'm highly interested in economics and logistics!
 - 📫 Reach me here: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
 
