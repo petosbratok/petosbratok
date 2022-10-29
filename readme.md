@@ -4,7 +4,7 @@
 - ⚛️ Front-end with React.
 - 🐍 Applying Python with such modules as Django, Threading, Socket.
 - 🎓 Can do Data Science with Pandas, Numpy, Matplotlib, Tensorflow, Sklearn.
-- ☁️ Used API's provided by Strava, Telegram, Twitch, VK.
+- ☁️ Used API's provided by DRF, Strava, Telegram, Twitch, VK.
 - 🏛️ Besides coding, I'm highly interested in economics and road cycling!
 - 📫 Reach me here: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
 
