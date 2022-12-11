@@ -1,7 +1,7 @@
 ### Welcome! My name's Peter
 
 - ⚡ Full stack web-developer.
-- ⚛️ Front-end with React.
+- ⚛️ Front-end with Angular/React.
 - 🐍 Applying Python with such modules as Django, Threading, Socket.
 - 🎓 Can do Data Science with Pandas, Numpy, Matplotlib, Tensorflow, Sklearn.
 - ☁️ Used API's provided by DRF, Strava, Telegram, Twitch, VK.
