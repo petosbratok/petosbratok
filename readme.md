@@ -6,8 +6,7 @@
 - 🎓 I do Data Science with Pandas, Numpy, Matplotlib, Tensorflow, Sklearn.
 - ☁️ Experience in API's provided by DRF, Strava, Telegram, Twitch, VK.
 - 🏛️ Besides coding, I'm highly interested in economics and road cycling!
-- 📫 Reach me here: opletaevpetr@mail.com / https://peteropletaev.netlify.app/
-
+- 📫 Reach me here: opletaevpetr@mail.com / https://t.me/psbtok
 ### Connect with me:
 
 [<img align="left" alt="peteropletaev.netlify.app" width="22px" src="https://img.icons8.com/material-outlined/24/FFFFFF/geography.png" />][website]
